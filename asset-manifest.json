@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kriya-frontend-sdk/static/css/main.1ee5936b.css",
+    "main.js": "/kriya-frontend-sdk/static/js/main.a6397cfe.js",
+    "static/js/453.6aa8c256.chunk.js": "/kriya-frontend-sdk/static/js/453.6aa8c256.chunk.js",
+    "index.html": "/kriya-frontend-sdk/index.html",
+    "main.1ee5936b.css.map": "/kriya-frontend-sdk/static/css/main.1ee5936b.css.map",
+    "main.a6397cfe.js.map": "/kriya-frontend-sdk/static/js/main.a6397cfe.js.map",
+    "453.6aa8c256.chunk.js.map": "/kriya-frontend-sdk/static/js/453.6aa8c256.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ee5936b.css",
+    "static/js/main.a6397cfe.js"
+  ]
+}
